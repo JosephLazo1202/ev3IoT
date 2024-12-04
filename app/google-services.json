@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782150721325",
+    "project_id": "ev3iot-24bc3",
+    "storage_bucket": "ev3iot-24bc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782150721325:android:6e130ad66b2c8db1ed3da4",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhaEttW_joaQv_X5CfD5P0A65L8EU20wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782150721325:android:f9949bd8b72c2c21ed3da4",
+        "android_client_info": {
+          "package_name": "com.example.ev3iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhaEttW_joaQv_X5CfD5P0A65L8EU20wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
